@@ -4,7 +4,7 @@ function July() {
   return (
     <>
       <div className="overflow-x-auto">
-        <div className='p-6 md:text-6xl font-bold border-2 border-black flex items-center md:pl-12 hover:bg-blue-900 bg-yellow-200'>July 2025</div>
+        <div className='h-24 md:text-6xl font-bold border-2 border-black flex items-center md:pl-12 hover:bg-blue-900 bg-yellow-200'>July 2025</div>
         <table className="table">
           {/* head */}
           <thead>

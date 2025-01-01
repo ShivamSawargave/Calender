@@ -4,7 +4,7 @@ function December() {
   return (
     <>
       <div className="overflow-x-auto">
-        <div className='p-6 w-screen md:text-6xl font-bold border-2 border-black flex items-center bg-yellow-200'>December 2025</div>
+        <div className='h-24 w-screen md:text-6xl font-bold border-2 border-black flex items-center bg-yellow-200'>December 2025</div>
         <table className="table">
           {/* head */}
           <thead>

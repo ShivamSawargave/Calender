@@ -4,7 +4,7 @@ function March() {
   return (
     <>
         <div className="overflow-x-auto">
-        <div className='p-6 md:text-6xl font-bold border-2 border-black flex items-center md:pl-12 bg-yellow-200'>March 2025</div>
+        <div className='h-24 md:text-6xl font-bold border-2 border-black flex items-center md:pl-12 bg-yellow-200'>March 2025</div>
         <table className="table">
           {/* head */}
           <thead>
