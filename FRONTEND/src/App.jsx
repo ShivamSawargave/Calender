@@ -4,7 +4,7 @@ import Month from './month/Month'
 import { useAuth } from './context/AuthProvider';
 import Home from './home/Home';
 import January from './month/January';
-import February from './month/february';
+import February from './month/February';
 import March from './month/March';
 import April from './month/April';
 import May from './month/May';
@@ -32,6 +32,7 @@ function App() {
         <Route path="/April" element={<April/>}/>
         <Route path="/May" element={<May/>}/>
         <Route path="/June" element={<June/>}/>
+        <Route path="/July" element={<July/>}/>
         <Route path="/August" element={<August/>}/>
         <Route path="/September" element={<September/>}/>
         <Route path="/October" element={<October/>}/>
