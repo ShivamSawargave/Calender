@@ -2,7 +2,7 @@
 import  { useRef } from "react";
 import Slider from "react-slick";
 import January from "./January";
-import February from "./february";
+import February from "./February";
 import March from "./March";
 import April from "./April";
 import May from "./May";
