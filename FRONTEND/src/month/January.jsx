@@ -42,7 +42,7 @@ function January() {
                   </form>
                 </dialog>
                 </div>
-                <div  className='text-xl md:pl-2 text-white'>
+                <div  className='text-sm md:pl-2 text-white'>
                   <p>Happy New Year Day,</p>
                   <p>Kharistabda 2025 begin,</p>
                   <p>Jamadilak</p>
@@ -66,7 +66,7 @@ function January() {
                   </form>
                 </dialog>
                 </div>
-                <div  className='text-xl md:pl-2 text-white'>
+                <div  className='text-sm md:pl-2 text-white'>
                   <p>Rajab:Muslim Month Begin,</p>
                   <p>Rajab M 1</p>
                   
@@ -90,7 +90,7 @@ function January() {
                   </form>
                 </dialog>
                 </div>
-                <div  className='text-xl md:pl-2 text-white'>
+                <div  className='text-sm md:pl-2 text-white'>
                   <p>Vinayak Chaturthi,</p>
                   <p>Savitribai Phule Anniversary</p>
                   
@@ -114,7 +114,7 @@ function January() {
                   </form>
                 </dialog>
                 </div>
-                <div  className='text-xl md:pl-2 text-white'>
+                <div  className='text-sm md:pl-2 text-white'>
                   <p></p>
                   <p></p>
                   <p></p>
@@ -164,7 +164,7 @@ function January() {
                   </form>
                 </dialog>
                 </div>
-                <div  className='text-xl md:pl-2 text-white'>
+                <div  className='text-sm md:pl-2 text-white'>
                   <p>Guru Govind Singh Birth aniversary</p>
                  
                 </div>
@@ -230,7 +230,7 @@ function January() {
                   </form>
                 </dialog>
                 </div>
-                <div  className='text-xl md:pl-2 text-white'>
+                <div  className='text-sm md:pl-2 text-white'>
                   <p>Shamb Dashmi (Odisha),</p>
                   <p>Surya Pujan (Odisha)</p>
                   
@@ -254,7 +254,7 @@ function January() {
                   </form>
                 </dialog>
                 </div>
-                <div  className='text-xl md:pl-2 text-white'>
+                <div  className='text-sm md:pl-2 text-white'>
                   <p>Putrada Ekadashi,</p>
                   <p>Vaikunth Ekadashi(T.N.)</p>
                   
@@ -302,7 +302,7 @@ function January() {
                   </form>
                 </dialog>
                 </div>
-                <div  className='text-xl md:pl-2 text-red-400 hover:text-white'>
+                <div  className='text-sm md:pl-2 text-red-400 hover:text-white'>
                   <p>Swami Vivekanand birth aniversary</p>
                   
                 </div>
@@ -325,7 +325,7 @@ function January() {
                   </form>
                 </dialog>
                 </div>
-                <div  className='text-xl md:pl-2 text-white'>
+                <div  className='text-sm md:pl-2 text-white'>
                   <p>Shakamb hari purnima,</p>
                   <p>shakambari</p>
                   
@@ -349,7 +349,7 @@ function January() {
                   </form>
                 </dialog>
                 </div>
-                <div  className='text-xl md:pl-2 text-white'>
+                <div  className='text-sm md:pl-2 text-white'>
                   <p>Makar Sankrati,</p>
                   <p>Hazarat Ali birth aniversary</p>
                   
@@ -414,7 +414,7 @@ function January() {
                   </form>
                 </dialog>
                 </div>
-                <div  className='text-xl md:pl-2 text-white'>
+                <div  className='text-sm md:pl-2 text-white'>
                   <p>Ganesh Sankashta Chaturthi</p>
                   
                 </div>
@@ -463,7 +463,7 @@ function January() {
                 </dialog>
                 </div>
                 <div  className='text-xl md:pl-2text-red-400 text-red-400 hover:text-white'>
-                  <p>Rivan Fest (Goa)</p>
+                  
                  
                 </div>
                 </div>
@@ -506,7 +506,7 @@ function January() {
                   </form>
                 </dialog>
                 </div>
-                <div  className='text-xl md:pl-2 text-white'>
+                <div  className='text-sm md:pl-2 text-white'>
                   <p>Kalashtami,</p>
                   <p>Swami Vivekanand Birth aniversary</p>
                   
@@ -551,7 +551,7 @@ function January() {
                 </dialog>
                 </div>
                 <div  className='text-xl md:pl-2 text-white'>
-                  <p>Netaji Subhaschandra Bose birth aniversary</p>
+                  
                   
                 </div>
                 </div>
@@ -612,7 +612,7 @@ function January() {
                   <div className="modal-box">
                     <h3 className="font-bold text-lg md:text-5xl text-red-800">26 January 2025</h3>
                     <p className="py-4">Indian Republic Day,</p>
-                    <p>Pilar Feast (Goa)</p>
+                    
                   
                   </div>
                   <form method="dialog" className="modal-backdrop">
@@ -622,7 +622,7 @@ function January() {
                 </div>
                 <div  className='text-xl md:pl-2 text-red-400 hover:text-white'>
                   <p>Indian Republic Day,</p>
-                  <p>Pilar Feast (Goa)</p>
+                  
                   
                 </div>
                 </div>
@@ -635,9 +635,8 @@ function January() {
                 <dialog id="my_modal_28" className="modal">
                   <div className="modal-box">
                     <h3 className="font-bold text-lg md:text-5xl text-red-800">27 January 2025</h3>
-                    <p className="py-4">Som Pradosh,</p>
                     <p>Shivratri,</p>
-                  <p>Meru Trayudarshi</p>
+                  
                   </div>
                   <form method="dialog" className="modal-backdrop">
                     <button>close</button>
@@ -645,9 +644,7 @@ function January() {
                 </dialog>
                 </div>
                 <div  className='text-xl md:pl-2 text-white'>
-                  <p>Som Pradosh,</p>
-                  <p>Shivratri,</p>
-                  <p>Meru Trayudarshi</p>
+                  
                 </div>
                 </div>
               </th>
